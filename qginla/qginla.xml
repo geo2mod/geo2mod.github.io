@@ -1,1 +1,11 @@
-
+<?xml version="1.0"?>
+<plugins>
+    <pyqgis_plugin name="QGINLA" version="0.1">
+        <description>QGINLA plugin</description>
+        <homepage>https://geo2mod-qginla-docs.readthedocs.io</homepage>
+        <qgis_minimum_version>3.16</qgis_minimum_version>
+        <file_name>qginla.zip</file_name>
+        <author_name>Giacomo Titti</author_name>
+        <download_url>https://geo2mod.github.io/qginla/qginla.zip</download_url>
+    </pyqgis_plugin>
+</plugins>
