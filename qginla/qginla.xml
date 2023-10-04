@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="QGINLA" version="0.0.1">
+    <pyqgis_plugin name="QGINLA" version="0.0.0">
         <description>QGINLA plugin</description>
         <homepage>https://geo2mod-qginla-docs.readthedocs.io</homepage>
         <qgis_minimum_version>3.16</qgis_minimum_version>
