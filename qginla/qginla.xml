@@ -1,6 +1,6 @@
 <?xml version="$TAG_NAME"?>
 <plugins>
-    <pyqgis_plugin name="QGINLA" version="$TAG_NAME">
+    <pyqgis_plugin name="QGINLA" version="2.0">
         <description>QGINLA plugin</description>
         <homepage>https://geo2mod-qginla-docs.readthedocs.io</homepage>
         <qgis_minimum_version>3.16</qgis_minimum_version>
